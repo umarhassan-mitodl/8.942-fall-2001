@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings and Lecture Notes
 uid: 5d5d2a6d-8e0f-ee88-02d1-b54c44a703f6
 ---
-The links below are to the course lecture notes and readings.  Many of the links go to the {{% resource_link "1a081030-46fc-4d64-9a86-9db6ad56fe2e" "arXiv.org e-Print Archive" %}}, with downloadable versions of the papers.
+The links below are to the course lecture notes and readings.  Many of the links go to the [arXiv.org e-Print Archive](http://arxiv.org/), with downloadable versions of the papers.
 
 The textbook readings are in: Peacock, John A. *Cosmological Physics.* Cambridge University Press, 1998.  ISBN: 9780521422703.
 
@@ -54,7 +54,7 @@ Cosmography 2: SNe Ia
 
 Peacock: Chapter 3.4, 5
 
-{{% resource_link "6879d042-5072-422b-b809-1bf4f517571c" "High-z SN Team" %}}, {{% resource_link "07e9a147-48db-427d-aac7-58a947fe9563" "Turner & Riess" %}}, {{% resource_link "3f8f98c3-cda9-438c-8ef6-432c457bca94" "Filippenko" %}}
+[High-z SN Team](http://www.cfa.harvard.edu/supernova//HighZ.html), [Turner & Riess](http://arxiv.org/abs/astro-ph/0106051), [Filippenko](http://arxiv.org/abs/astro-ph/0109399)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -70,7 +70,7 @@ Inflation 2
 
 Peacock: Chapter 11.3-11.4
 
-{{% resource_link "52a193d8-79a8-4579-9591-844a941308db" "Liddle" %}}
+[Liddle](http://arxiv.org/abs/astro-ph/0109439)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -86,7 +86,7 @@ Radiation Era, Nucleosynthesis
 
 Peacock: Chapter 9
 
-{{% resource_link "d453c5e8-0f1f-48c9-9b2e-1437f8192125" "Burles et al" %}}
+[Burles et al](http://arxiv.org/abs/astro-ph/0010171)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -96,7 +96,7 @@ Baryogenesis, CMB Basics
 
 Peacock: Chapter 9.6, 9.4
 
-{{% resource_link "5497a8bb-1f96-41fc-b7c1-4c49bed3f03a" "Smoot" %}}
+[Smoot](http://arxiv.org/abs/astro-ph/9902027)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -138,7 +138,7 @@ High-z Galaxies and QSOs
 
 Peacock: Chapter 13, 14
 
-{{% resource_link "dfb0cfca-4ad2-4c4b-9c63-77ee71dc025e" "Madau" %}}, {{% resource_link "6a011c8f-1577-4384-9897-2e11f3a120fc" "Abraham & van den Bergh" %}}
+[Madau](http://arxiv.org/abs/astro-ph/9902228), [Abraham & van den Bergh](http://arxiv.org/abs/astro-ph/0109358)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -148,7 +148,7 @@ QSO Absorption Lines 1
 
 Peacock: Chapter 12.1-12.2
 
-{{% resource_link "d528aaa2-52db-4db5-a0fa-a5099a4a4a7f" "Madau" %}}, {{% resource_link "25b17bf9-0266-4076-8687-a564fefa10ff" "Becker et al" %}}
+[Madau](http://arxiv.org/abs/astro-ph/0005106), [Becker et al](http://arxiv.org/abs/astro-ph/0108097)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -170,7 +170,7 @@ Newtonian Structure Formation Theory
 
 Peacock: Chapter 15.1-15.4
 
-Lecture Note: {{% resource_link "1537feb4-35f0-484b-9a2e-9d2e6c6c4e06" "Cosmological Perturbation Theory and Structure Formation" %}}
+Lecture Note: [Cosmological Perturbation Theory and Structure Formation](http://arxiv.org/abs/astro-ph/0101009)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -195,7 +195,7 @@ Peacock: Chapter 17.1-17.2
 {{< tdclose >}}{{< tdopen >}}
 Structure Formation Models 2
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "14c0cedb-a6af-4e34-91d8-d7bb1dad13db" "Turner review" %}}
+[Turner review](http://arxiv.org/abs/astro-ph/9901168)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -217,5 +217,5 @@ N-body Simulations
 {{< tdclose >}}{{< tdopen >}}
 Frontiers of Cosmology
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "2ab15b0d-4494-4fd9-aaec-cc61027eb1ac" "Rees" %}}
+[Rees](http://arxiv.org/abs/astro-ph/0103391)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
